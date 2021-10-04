@@ -4,3 +4,4 @@ Welcome to my Data Science projects,. Here I attached my submission, course exer
 2. Natural Language Processing: Emotion in Text (dataset from: https://www.kaggle.com/ishantjuyal/emotions-in-text).
 3. Time Series: Hourly Energy Consumption (dataset from: https://www.kaggle.com/robikscube/hourly-energy-consumption?select=FE_hourly.csv)
 4. Image Classification Model Deployment (to TFLite).
+5. Project Machine Learning: Building Recommender System (IMBD Weighted Ratings Formula).
